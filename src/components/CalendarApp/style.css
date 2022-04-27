@@ -1,0 +1,8 @@
+.backPlane{
+    background: rgb(49, 137, 129) 2px;
+    width: 50%;
+    height: 60vh;
+    margin-left: 25%;
+    margin-top: 5%;
+    display: flex;
+}

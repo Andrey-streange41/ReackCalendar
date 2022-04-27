@@ -1,0 +1,28 @@
+.row{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 5%;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 4%;
+}
+
+.row>div{
+    max-width: 50px;
+    width: 50px;
+    color: grey;
+    font-weight: 600;
+    font-size: 22px;
+    text-align: center;
+   
+    margin:0px;
+    padding: 0px;
+    margin-right: 20px;
+    
+}
+
+section>.row:last-child>div:nth-child(5){
+    border: red 4px solid;
+    border-radius: 60%;
+}

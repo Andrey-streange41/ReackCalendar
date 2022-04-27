@@ -1,0 +1,27 @@
+.currentDayBlock{
+    background-color: rgb(88, 195, 195);
+    width: 48%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 1.5%; 
+    color :white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    font-size: 45px;
+    color: inherit;
+    font-family:inherit;
+    font-weight: 400;
+}
+
+
+p{
+    font-size: 260px;
+    padding: 0px;
+    margin: 0px;
+    color: inherit;
+    font-weight: 100;
+    font-family:inherit;
+}
